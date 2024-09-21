@@ -21,8 +21,8 @@
 | Resistor 1/4W | 100K | 17 | R1, R2, R5, R7, R123, R124, R129, R131, R161, R163, R168, R169, R213, R215, R220, R221, R275 |
 | Resistor 1/4W | 150K| 4 | R8, R9, R10, R11 |
 | Resistor Array 1/4W | 100K | 4 | RN1, RN2, RN3, RN4 | 8 resistors, 9 legs, bussed type, e.g. Bourne 4609X-101-104LF (Mouser 652-4609X-1LF-100K) |
-| Capacitor Electrolytic | 100uF | 2 |
-| Capacitor Electrolytic | 10uF | 2 |
+| Capacitor Electrolytic | 100uF | 2 | C30, C31 |
+| Capacitor Electrolytic | 10uF | 2 | C1, C188 |
 | Capacitor Ceramic | 0.1uF | 64 | C9, C10, C11, C12, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C113, C114, C115, C116, C117, C118, C119, C120, C151, C152, C153, C154, C155, C156, C157, C158, C159, C160, C161, C162, C163, C164, C165, C166, C167, C168, C169, C170, C171, C172, C173, C174, C175, C176, C177, C179, C180, C181, C182, C183, C184, C185, C186, C187 | SMD (1608) |
 | Capacitor Film | 0.1uF | 4 | C23, C25, C28, C32 |
 | Capacitor Film | 0.082uF | 4 | C33, C35, C38, C40 |
