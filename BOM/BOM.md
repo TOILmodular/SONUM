@@ -48,14 +48,14 @@
 | Potentiometer | A10K | 2 | |
 | Potentiometer | B5K | 12 | |
 | Mono Jack | 3.5mm | 17 | |
-| Header | 2.54mm Male 1x9 | 1 | Connector Main Board |
-| Header | 2.54mm Male 1x8 | 1 | Connector Main Board |
-| Header | 2.54mm Male 1x6 | 1 | Connector Main Board |
-| Header | 2.54mm Male 1x5 | 1 | Connector Main Board |
-| Header | 2.54mm Male 1x3 | 1 | Connector Main Board |
-| Header | 2.54mm Female 1x9 | 1 | Connector Control Board |
-| Header | 2.54mm Female 1x8 | 1 | Connector Control Board |
-| Header | 2.54mm Female 1x6 | 1 | Connector Control Board |
-| Header | 2.54mm Female 1x5 | 1 | Connector Control Board |
-| Header | 2.54mm Female 1x3 | 1 | Connector Control Board |
-| Header | 2.54mm Male 2x5 | 1 | Power Connector |
+| Header | 2.54mm Male 1x9 | 1 | | Connector Main Board |
+| Header | 2.54mm Male 1x8 | 1 | | Connector Main Board |
+| Header | 2.54mm Male 1x6 | 1 | | Connector Main Board |
+| Header | 2.54mm Male 1x5 | 1 | | Connector Main Board |
+| Header | 2.54mm Male 1x3 | 1 | | Connector Main Board |
+| Header | 2.54mm Female 1x9 | 1 | | Connector Control Board |
+| Header | 2.54mm Female 1x8 | 1 | | Connector Control Board |
+| Header | 2.54mm Female 1x6 | 1 | | Connector Control Board |
+| Header | 2.54mm Female 1x5 | 1 | | Connector Control Board |
+| Header | 2.54mm Female 1x3 | 1 | | Connector Control Board |
+| Header | 2.54mm Male 2x5 | 1 | | Power Connector |
