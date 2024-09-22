@@ -41,7 +41,7 @@
 | Capacitor Ceramic | 100pF | 12 | C89, C90, C91, C92, C137, C138, C139, C140, C141, C142, C143, C144 |
 | Capacitor Ceramic | 22pF | 6 | C2, C3, C4, C5, C149, C150 |
 | Diode | 1N5819 | 2 | D5, D6 |
-| Diode | 1N5817 | 12 | D1, D2, D3, D4, D7, D8, D9, D10, D11, D12, D13, D14 |
+| Diode | 1N5817 | 12 | D1, D2, D3, D4, D7, D8, D9, D10, D11, D12, D13, D14 | 1N5819 is also ok |
 | Dual Op Amp | TL072 or NJM4580 | 29 | | SMD (SOP8) |
 | Quad VCA | AS2164 or V2164 | 3 | |
 | Potentiometer | B100K | 3 | |
