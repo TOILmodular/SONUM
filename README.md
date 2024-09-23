@@ -15,7 +15,7 @@ Features:
 - 2 input channels with attenuators, normalled to each other
 - Volume CV inputs for each of the 12 band-pass filters - attenuators serve as VCA bias
 - A feedback loop with attenuator into both input channels with the feedback source selectable via a switch either from the odd or the even filter outputs
-- 3 outputs - odd, even, or all filter channels
+- 3 outputs - odd, even, and all filter channels
 
 A demo of the module is available on YouTube.
 
