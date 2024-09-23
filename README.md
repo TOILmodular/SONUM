@@ -29,7 +29,7 @@ Reason is that for my own module, I am using specific potentiometers - 16K4 seri
 
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created another control board PCB for the "Thonk" version with footprints for those components.
 
-<img width="500" alt="CtrlPCB Thonk" src="https://github.com/user-attachments/assets/6eac2def-754e-417b-9de5-e9c6fca10dd0">
+<img width="500" alt="CtrlPCB Thonk" src="https://github.com/user-attachments/assets/48e87a1d-0c91-47f2-bf1a-662384c755de">
 
 The main PCB is the same for both versions.
 
