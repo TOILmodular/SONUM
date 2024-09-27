@@ -52,6 +52,6 @@ Usually, I prefer labeling components with their values on the PCBs. So I do not
 
 However, due to the huge number of components  for this module (235 resistors, 187 capacitors, 29 op amps...), the space on the main PCB is not sufficient to print all capacitor and resistor values.
 So I decided to label them with the component numbers given in the schematic.
-Those numbers are also listed in the BOM and separated between those on the main baord and those on the control board. The resistor numbers in the BOM and schematic have the prefix R, while there is just the number printed on the PCBs.
+Those numbers are also listed in the BOM and separated between those on the main board and those on the control board. The resistor numbers in the BOM and schematic have the prefix R, while there is just the number printed on the PCBs.
 
 My suggestion is to have the BOM displayed or printed out, when soldering the boards. So you can process all components for a specific value by checking the component numbers and searching the locations on the board.
