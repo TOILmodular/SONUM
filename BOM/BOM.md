@@ -16,7 +16,7 @@
 | Resistor 1/4W | 39K | 2 | | R77, R276 |
 | Resistor 1/4W | 47K | 24 | R21, R26, R27, R32, R33, R38, R39, R44, R45, R50, R51, R56, R57, R62, R63, R68, R69, R74, R75, R81, R88, R93, R94, R99 |
 | Resistor 1/4W | 82K | 1 | R14 |
-| Resistor 1/4W | 100K | 17 | R123, R124, R129, R131, R161, R163, R168, R169, R213, R215, R220, R221, R275 | R1, R2, R5, R7, R275 |
+| Resistor 1/4W | 100K | 17 | R123, R124, R129, R131, R161, R163, R168, R169, R213, R215, R220, R221 | R1, R2, R5, R7, R275 |
 | Resistor 1/4W | 150K| 4 | R8, R9, R10, R11 |
 | Resistor Array | 100K | 4 | | RN1, RN2, RN3, RN4 | 8 resistors, 9 legs, bussed type, e.g. Bourne 4609X-101-104LF (Mouser 652-4609X-1LF-100K) |
 | Capacitor Electrolytic | 100uF | 2 | C30, C31 |
