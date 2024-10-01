@@ -19,7 +19,7 @@ There is also a feedback loop of the output signal back into the module input fo
 
 ## Features:
 - 14 filter bands - 12 band-pass, a low-pass, and a high-pass - with attenuators
-- 2 input channels - one finto the even filters, one into the odd filters - with attenuators, normalled to each other
+- 2 input channels - one into the even filters, one into the odd filters - with attenuators, normalled to each other
 - Volume CV inputs for each of the 12 band-pass filters - attenuators serve as VCA bias
 - A feedback loop with attenuator into both input channels with the feedback source selectable via a switch either from the odd or the even filter outputs
 - 3 outputs - odd, even, and all filter channels
