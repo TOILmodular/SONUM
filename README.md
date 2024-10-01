@@ -61,7 +61,7 @@ On the control board, you will find 2 electrolytic capacitors with a rectangle n
 There are four resistor arrays on the control board, each with eight 100K resistors.
 Those are of the bussed type, so there are nine legs, and the orientation is crucial.
 Make sure that the dot on the array and the dot on the board are lined up!
-Another orientation is the squared hole for the component in the board, where the component side with dot mark needs to be positioned.
+Another orientation is the squared hole for the component in the board, where the component side with the dot mark needs to be positioned.
 
 <img width="300" src="https://github.com/user-attachments/assets/2adf1e37-27c3-4596-a13b-ff7bdcd9cb5d">
 
