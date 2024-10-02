@@ -6,7 +6,7 @@ But there are a few crucial differences.
 While the frequencies in the Yusynth module are basically multiples (octaves) of two notes, there is a "retuned" version published by Rich Holmes with alternative frequencies avoiding octave separations. 
 Rich explained the intention of these different frequencies in a [YouTube video on his channel "Analog Output"](https://www.youtube.com/watch?v=-yv34qV_Hrs).
 My module makes use of the Analog Output design for the 14 fixed filters.
-I only changed the frequency of the high-pass filter from 11.5MHz to around 9.5MHz, because otherwise the filter output was just not audible anymore (at least for me).
+I only changed the frequency of the high-pass filter from 11.5MHz to around 8.5MHz, because otherwise the filter output was just not audible anymore (at least for me).
 
 There are two additional features, which are not present in the Yusynth and Analog Output designs.
 The SONUM module provides CV inputs for the volume of the 12 band-pass filters.
