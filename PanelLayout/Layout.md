@@ -51,7 +51,7 @@ Coordinates origin is the lower left corner of the panel.
 | 34 | 106.5 | 15 | 8050Hz Jack |
 | 35 | 129.5 | 15 | ALL OUT Jack |
 
-<img height="800" src="https://github.com/user-attachments/assets/f7b87270-9610-4644-98ba-660477a07d7b">
+<img height="800" src="https://github.com/user-attachments/assets/04f60cb6-ce3b-4465-acba-6e752f927170">
 
 ### HP Standard Design
 For building the panel with a size following the HP standard, you can use the panel Gerber files provided in the folder "GerberFiles".
