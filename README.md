@@ -26,7 +26,48 @@ There is also a feedback loop of the output signal back into the module input fo
 
 A demo of the module with a more detailed instruction for the usage is available on YouTube.
 
-[<img width="500" src="https://github.com/user-attachments/assets/b8aafb74-b98e-45ee-a0a1-c7a656f65acc">](xxx)
+[<img width="500" src="https://github.com/user-attachments/assets/20c96704-a720-4ac5-8767-ff32d0bc53dc">](https://youtu.be/sHNB9UdjJjo)
+
+## Signal Flow
+The graph below describes the rough signal flow inside the module.
+
+<img height="500" src="https://github.com/user-attachments/assets/80e67ade-8529-48ab-a43d-b9e9e8266a87">
+
+The two inputs feed audio signals to different paths.
+A signal coming in to input 1 is processed via an attenuator and sent to the high-pass filter and all odd filters from no.1 to no.11 in parallel.
+The outputs from those filters are summed into the outputs ODD OUT and ALL OUT.
+
+A signal coming in to input 2 is processed via an attenuator and sent to the low-pass filter and all even filters from no.1 to no.11 in parallel.
+The outputs from those filters are summed into the outputs EVEN OUT and ALL OUT.
+
+Another set of outputs from both odd and even processing blocks is sent into a feedback loop.
+A switch on the front panel decides which of those two options is actually further processed.
+The feedback signal is then going through another attenuator and mixed with both input signals.
+
+The output volume of all 12 band-pass filters can be controlled via CV.
+
+## Filter Band Frequencies
+| Filter Band Number | Frequency [Hz]| Type | Signal Path |
+| --- | --- | --- | --- |
+| | 85.5 | Low-Pass | Even |
+| 1 | 125 | Band-Pass | Odd |
+| 2 | 185 | Band-Pass | Even |
+| 3 | 265 | Band-Pass | Odd |
+| 4 | 390 | Band-Pass | Even |
+| 5 | 570 | Band-Pass | Odd |
+| 6 | 830 | Band-Pass | Even |
+| 7 | 1200 | Band-Pass | Odd |
+| 8 | 1750 | Band-Pass | Even |
+| 9 | 2600 | Band-Pass | Odd |
+| 10 | 3800 | Band-Pass | Even |
+| 11 | 5500 | Band-Pass | Odd |
+| 12 | 8050 | Band-Pass | Even |
+| | 8500 | High-Pass | Odd |
+
+## Front Panel Labeling
+The labels of all inputs, outputs, and knobs at the front panel indicate if they are relevant for the odd or even signal path. Elements for the odd path are boxed, while those for the even path are not.
+
+<img height="500" src="https://github.com/user-attachments/assets/f68ab6cc-1dd4-4979-a9d6-da6853ab95dc">
 
 ## Module Build and PCBs
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
